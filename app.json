@@ -1,0 +1,19 @@
+{
+  "appKey": "FqKeo0vm8pVZY32Ti2LWUWLuELWIbx1Z",
+  "appSecret": "VKb75IaP3X42NwGkXm85aNIJP6rZcXyF",
+  "projectId": 64,
+  "id": 137,
+  "name": "test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/qiaoli900311/qiaoli99.git",
+    "isPrivate": 0,
+    "username": "qiaoli900311",
+    "password": "48111400qiaoli"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
